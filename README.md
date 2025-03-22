@@ -68,7 +68,15 @@ prompt the user to input any positive integer and outputs the successive values 
 
 **References**:
 
+https://www.youtube.com/watch?v=094y1Z2wpJg&t=1s
 
+https://www.w3schools.com/python/python_conditions.asp
+
+https://realpython.com/python-while-loop/
+
+https://www.geeksforgeeks.org/program-to-print-collatz-sequence/?ref=ml_lbp
+
+https://www.turing.com/kb/valueerror-in-python-and-how-to-fix
 
 ## Task 05
 Write a python program called [weekday.py](weekday.py)
