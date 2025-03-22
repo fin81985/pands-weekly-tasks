@@ -5,7 +5,7 @@
 
 | Tasks|Program       |
 |-----:|---------------|
-|     1| helloworld.py |
+|     1| firstprog.py |
 |     2| bank.py       |
 |     3| accounts.py   |
 |     4| collatz.py    |
@@ -16,7 +16,8 @@
 
 ## Task 01
 
-Write a python program called [helloworld.py](helloworld.py)
+Write a python program called [firstprog.py](firstprog.py)
+
 
 
 This program will print Hello World! when it is run.
