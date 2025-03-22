@@ -58,7 +58,7 @@ https://stackoverflow.com/questions/59342854/how-to-mask-input-and-display-the-l
 
 https://docs.python.org/3/library/math.html#math.inf
 
-“in python is there a way of writing the infinity number” prompt. ChatGPT
+Prompt. ChatGPT “in python is there a way of writing the infinity number” 
 
 
 ## Task 04
