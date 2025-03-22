@@ -5,7 +5,7 @@
 
 | Tasks|Program       |
 |-----:|---------------|
-|     1| helloworld.py |
+|     1| firstprog.py |
 |     2| bank.py       |
 |     3| accounts.py   |
 |     4| collatz.py    |
@@ -16,9 +16,14 @@
 
 ## Task 01
 
-Write a python program called helloworld.py
+Write a python program called [firstprog.py](firstprog.py)
+
+
 
 This program will print Hello World! when it is run.
+
+**References**:
+
 
 ## Task 02
 
@@ -29,30 +34,53 @@ The program should:
                     * Add the two amounts
                     * Print out the answer in a human readable format with a euro sign and decimal point between the euro and cent of the amount 
 
+**References**:
+
+
 ## Task 03
 Write a python program called accounts.py
 
 The program will reads in a 10 character account number and outputs the account number with only the last 4 digits showing (and the first 6 digits replaced with Xs).
+
+**References**:
+
+
 
 ## Task 04
 Write a python program called collatz.py
 
 prompt the user to input any positive integer and outputs the successive values of the following calculation.
 
+**References**:
+
+
+
 ## Task 05
 Write a python program called weekday.py
 
 The program will outputs whether or not today is a weekday.
+
+**References**:
+
+
 
 ## Task 06
 Write a python program called squareroot.py
 
 The program will takes a positive floating-point number as input and outputs an approximation of its square root.
 
+**References**:
+
+
+
 ## Task 07
 Write a python program called es.py
 
 The program will reads in a text file moby-dick.txt and outputs the number of e's it contains.
+
+**References**:
+
+
 
 ## Task 08
 
@@ -61,3 +89,5 @@ that displays:
 
 * histogram of a normal distribution of a 1000 values with a mean of 5 and standard deviation of 2. 
 * plot of the function  h(x)=x3 in the range 0 to 10, on the one set of axes.
+
+**References**:
