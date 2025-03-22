@@ -28,7 +28,7 @@ https://www.w3schools.com/python/default.asp
 
 ## Task 02
 
-Write a python program called bank.py
+Write a python program called [bank.py](bank.py)
 
 The program should:
                     * Prompt the user and read in two money amounts (in cent)
@@ -46,7 +46,7 @@ https://realpython.com/python-input-output/
 
 
 ## Task 03
-Write a python program called accounts.py
+Write a python program called [accounts.py](accounts.py)
 
 The program will reads in a 10 character account number and outputs the account number with only the last 4 digits showing (and the first 6 digits replaced with Xs).
 
@@ -62,7 +62,7 @@ Prompt. ChatGPT “in python is there a way of writing the infinity number”
 
 
 ## Task 04
-Write a python program called collatz.py
+Write a python program called [collatz.py](collatz.py)
 
 prompt the user to input any positive integer and outputs the successive values of the following calculation.
 
@@ -71,7 +71,7 @@ prompt the user to input any positive integer and outputs the successive values 
 
 
 ## Task 05
-Write a python program called weekday.py
+Write a python program called [weekday.py](weekday.py)
 
 The program will outputs whether or not today is a weekday.
 
@@ -80,7 +80,7 @@ The program will outputs whether or not today is a weekday.
 
 
 ## Task 06
-Write a python program called squareroot.py
+Write a python program called [squareroot.py](squareroot.py)
 
 The program will takes a positive floating-point number as input and outputs an approximation of its square root.
 
@@ -89,7 +89,7 @@ The program will takes a positive floating-point number as input and outputs an 
 
 
 ## Task 07
-Write a python program called es.py
+Write a python program called [es.py](es.py)
 
 The program will reads in a text file moby-dick.txt and outputs the number of e's it contains.
 
@@ -99,7 +99,7 @@ The program will reads in a text file moby-dick.txt and outputs the number of e'
 
 ## Task 08
 
-Write a python program called plottask.py
+Write a python program called [plottask.py](plottask.py)
 that displays:
 
 * histogram of a normal distribution of a 1000 values with a mean of 5 and standard deviation of 2. 
