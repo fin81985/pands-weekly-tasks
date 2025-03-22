@@ -85,7 +85,11 @@ The program will outputs whether or not today is a weekday.
 
 **References**:
 
+https://pynative.com/python-get-the-day-of-week/
 
+https://www.w3schools.com/python/python_sets.asp
+
+https://docs.python.org/3/library/datetime.html
 
 ## Task 06
 Write a python program called [squareroot.py](squareroot.py)
