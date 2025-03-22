@@ -24,6 +24,7 @@ This program will print Hello World! when it is run.
 
 **References**:
 
+https://www.w3schools.com/python/default.asp
 
 ## Task 02
 
@@ -36,6 +37,13 @@ The program should:
 
 **References**:
 
+https://realpython.com/python-development-visual-studio-code/
+
+https://www.w3schools.com/python/python_string_formatting.asp
+
+
+https://realpython.com/python-input-output/
+
 
 ## Task 03
 Write a python program called accounts.py
@@ -44,6 +52,13 @@ The program will reads in a 10 character account number and outputs the account 
 
 **References**:
 
+https://www.youtube.com/watch?v=H2uYYigqCnE
+
+https://stackoverflow.com/questions/59342854/how-to-mask-input-and-display-the-last-4-digit-using-python
+
+https://docs.python.org/3/library/math.html#math.inf
+
+“in python is there a way of writing the infinity number” prompt. ChatGPT
 
 
 ## Task 04
