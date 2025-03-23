@@ -15,7 +15,7 @@ np.random.seed(0)
 values = np.random.normal(mean, std_dev, num_values)
 
 # Plotting the histogram
-plt.hist(values, bins=30, alpha=0.6, color='g', label="Normal Distribution")
+plt.hist(values, bins=30, alpha=0.6, color='lightgreen', edgecolor='red', label="Normal Distribution")
 
 # Plotting the cubic function h(x) = x^3
 x = np.linspace(0, 10, 500)
