@@ -107,7 +107,13 @@ The program will reads in a text file moby-dick.txt and outputs the number of e'
 
 **References**:
 
+https://www.geeksforgeeks.org/how-to-use-sys-argv-in-python/
 
+https://realpython.com/python-catch-multiple-exceptions/
+
+https://realpython.com/python-counter/
+
+https://www.geeksforgeeks.org/count-the-number-of-times-a-letter-appears-in-a-text-file-in-python/
 
 ## Task 08
 
