@@ -124,3 +124,11 @@ that displays:
 * plot of the function  h(x)=x3 in the range 0 to 10, on the one set of axes.
 
 **References**:
+
+https://www.datacamp.com/tutorial/histograms-matplotlib
+
+https://www.geeksforgeeks.org/plotting-histogram-in-python-using-matplotlib/
+
+https://realpython.com/python-matplotlib-guide/
+
+https://atlantictu-my.sharepoint.com/:v:/g/personal/andrew_beatty_atu_ie/Edh4_evzuF9Eve4bT5Ey5VUBfGvhJZlVIzTnQobkJ-1ixg?e=EG2ojs&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
