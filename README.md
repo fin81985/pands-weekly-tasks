@@ -98,7 +98,13 @@ The program will takes a positive floating-point number as input and outputs an 
 
 **References**:
 
+https://www.geeksforgeeks.org/find-root-of-a-number-using-newtons-method/
 
+https://codedamn.com/news/python/calculate-square-root-in-python
+
+https://runestone.academy/ns/books/published/thinkcspy/MoreAboutIteration/NewtonsMethod.html
+
+Prompt. ChatGPT “why my code wrong explain in steps”
 
 ## Task 07
 Write a python program called [es.py](es.py)
