@@ -16,15 +16,16 @@ def sqrt(number, tolerance=0.0001): # tolerance is the difference between the gu
 # Main program
 def root(): # Function to get user input and call the sqrt function
     try:
-        number = float(input("Please enter a positive number: "))
+        number = float(input("Please enter a positive number: ")) # Ask the user to input a positive number
+        # Check if the number is negative
         if number < 0:
             print("error: Please enter a positive number.")
             return
         
-        approx_sqrt = sqrt(number)
+        approx_sqrt = sqrt(number)# Calculate the square root using the sqrt function
         print(f"The square root of {number} is approximately {approx_sqrt}.") # Print the result
-    except ValueError:
+    except ValueError: # if wrong thing is entered print this message
         print("Please enter a valid number.")
 
-if __name__ == "__main__":
-    root()
+if __name__ == "__main__": # If this script is run directly, call the root function
+    root() 

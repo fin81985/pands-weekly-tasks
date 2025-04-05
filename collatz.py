@@ -2,8 +2,8 @@
 # Author: Finian Doonan
 
 
-def collatz(number):
-    if number % 2 == 0:
+def collatz(number):# This function takes a number as input and returns the next number in the Collatz sequence.
+    if number % 2 == 0: # If the number is even, divide it by 2
         return number // 2  # If the number is even, return this value
     else:                               # If the number is odd, return this value
         return 3 * number + 1        # If the number is odd, return this value

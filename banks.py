@@ -7,8 +7,8 @@
 amount1 = int(input("Please enter the first amount: ")) #prompt the user to enter the first amount
 amount2 = int(input("Please enter the second amount: ")) #prompt the user to enter the second amount
 
-total_cent = amount1 + amount2 #adds the two amounts together
+total_cent = amount1 + amount2 # adds the two amounts together
 
-euro = total_cent /100 #converts the total amount to euro
+euro = total_cent /100 # converts the total amount to euro
 
 print(f"The total amount is: €{euro}") #prints out the total amount in euro

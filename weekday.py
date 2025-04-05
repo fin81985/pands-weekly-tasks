@@ -12,7 +12,7 @@ day_name = dt.strftime("%A") #  the strftime() method formats the date and time 
 weekday = {"Monday", "Tuesday", "Wednesday", "Thursday", "Friday"}
 weekend = {"Saturday", "Sunday"}    # create a list of weekdays and weekends
 
-if day_name in weekday: 
+if day_name in weekday: ## check if the current day is in the weekday list
     print("Yes, unfortunately, it is a weekday.")
 else: 
     print("Yay, it is the weekend!")
