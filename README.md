@@ -1,142 +1,122 @@
 # pands-weekly-tasks
 
-
 ## Contents
 
-| Tasks|Program       |
-|-----:|---------------|
-|     1| firstprog.py |
-|     2| bank.py       |
-|     3| accounts.py   |
-|     4| collatz.py    |
-|     5| weekend.py    |
-|     6| squareroot.py |
-|     7| es.py         |
-|     8| plottask.py   |
+| Task | Program         |
+|------|------------------|
+| 1    | `firstprog.py`   |
+| 2    | `bank.py`        |
+| 3    | `accounts.py`    |
+| 4    | `collatz.py`     |
+| 5    | `weekday.py`     |
+| 6    | `squareroot.py`  |
+| 7    | `es.py`          |
+| 8    | `plottask.py`    |
 
-## Task 01
+---
 
-Write a python program called [firstprog.py](firstprog.py)
+## Task 01: `firstprog.py`
 
+Write a Python program that prints:
 
+Hello World!
 
-This program will print Hello World! when it is run.
+### References:
+- [W3Schools Python Tutorial](https://www.w3schools.com/python/default.asp)
 
-**References**:
+---
 
-https://www.w3schools.com/python/default.asp
+## Task 02: `bank.py`
 
-## Task 02
+Write a Python program that:
+- Prompts the user to enter two monetary amounts (in cents)
+- Adds the two amounts
+- Prints the result in euro format (e.g., `€1.50`)
 
-Write a python program called [bank.py](bank.py)
+### References:
+- [Real Python - VS Code Development](https://realpython.com/python-development-visual-studio-code/)
+- [Python String Formatting](https://www.w3schools.com/python/python_string_formatting.asp)
+- [Python Input and Output](https://realpython.com/python-input-output/)
 
-The program should:
-                    * Prompt the user and read in two money amounts (in cent)
-                    * Add the two amounts
-                    * Print out the answer in a human readable format with a euro sign and decimal point between the euro and cent of the amount 
+---
 
-**References**:
+## Task 03: `accounts.py`
 
-https://realpython.com/python-development-visual-studio-code/
+Create a program that:
+- Reads a 10-character account number
+- Displays the last 4 digits and masks the rest with `X`s (e.g., `XXXXXX1234`)
 
-https://www.w3schools.com/python/python_string_formatting.asp
+### References:
+- [YouTube - Masking Input](https://www.youtube.com/watch?v=H2uYYigqCnE)
+- [Stack Overflow - Mask Digits](https://stackoverflow.com/questions/59342854/how-to-mask-input-and-display-the-last-4-digit-using-python)
+- [Python `math.inf`](https://docs.python.org/3/library/math.html#math.inf)
 
+---
 
-https://realpython.com/python-input-output/
+## Task 04: `collatz.py`
 
+Write a program that:
+- Prompts the user for a positive integer
+- Outputs the Collatz sequence until it reaches 1
 
-## Task 03
-Write a python program called [accounts.py](accounts.py)
+### References:
+- [YouTube - Collatz Conjecture](https://www.youtube.com/watch?v=094y1Z2wpJg&t=1s)
+- [W3Schools - Conditions](https://www.w3schools.com/python/python_conditions.asp)
+- [Real Python - While Loops](https://realpython.com/python-while-loop/)
+- [GeeksForGeeks - Collatz Example](https://www.geeksforgeeks.org/program-to-print-collatz-sequence/?ref=ml_lbp)
+- [Turing - ValueError in Python](https://www.turing.com/kb/valueerror-in-python-and-how-to-fix)
 
-The program will reads in a 10 character account number and outputs the account number with only the last 4 digits showing (and the first 6 digits replaced with Xs).
+---
 
-**References**:
+## Task 05: `weekday.py`
 
-https://www.youtube.com/watch?v=H2uYYigqCnE
+Write a program that:
+- Detects the current day of the week
+- Displays whether or not it is a weekday
 
-https://stackoverflow.com/questions/59342854/how-to-mask-input-and-display-the-last-4-digit-using-python
+### References:
+- [PyNative - Get Day of the Week](https://pynative.com/python-get-the-day-of-week/)
+- [W3Schools - Sets](https://www.w3schools.com/python/python_sets.asp)
+- [Python `datetime` Module](https://docs.python.org/3/library/datetime.html)
 
-https://docs.python.org/3/library/math.html#math.inf
+---
 
-Prompt. ChatGPT “in python is there a way of writing the infinity number” 
+## Task 06: `squareroot.py`
 
+Write a Python program that:
+- Takes a positive floating-point number as input
+- Outputs an approximation of its square root using Newton’s Method
 
-## Task 04
-Write a python program called [collatz.py](collatz.py)
+### References:
+- [GeeksForGeeks - Newton's Method](https://www.geeksforgeeks.org/find-root-of-a-number-using-newtons-method/)
+- [Codedamn - Square Root in Python](https://codedamn.com/news/python/calculate-square-root-in-python)
+- [ThinkCS - Newton’s Method](https://runestone.academy/ns/books/published/thinkcspy/MoreAboutIteration/NewtonsMethod.html)
 
-prompt the user to input any positive integer and outputs the successive values of the following calculation.
+---
 
-**References**:
+## Task 07: `es.py`
 
-https://www.youtube.com/watch?v=094y1Z2wpJg&t=1s
+Write a Python program that:
+- Reads a text file (`moby-dick.txt`)
+- Counts and displays how many times the letter **"e"** appears
 
-https://www.w3schools.com/python/python_conditions.asp
+### References:
+- [GeeksForGeeks - `sys.argv`](https://www.geeksforgeeks.org/how-to-use-sys-argv-in-python/)
+- [Real Python - Catch Multiple Exceptions](https://realpython.com/python-catch-multiple-exceptions/)
+- [Real Python - `collections.Counter`](https://realpython.com/python-counter/)
+- [GeeksForGeeks - Count Letters in File](https://www.geeksforgeeks.org/count-the-number-of-times-a-letter-appears-in-a-text-file-in-python/)
 
-https://realpython.com/python-while-loop/
+---
 
-https://www.geeksforgeeks.org/program-to-print-collatz-sequence/?ref=ml_lbp
+## Task 08: `plottask.py`
 
-https://www.turing.com/kb/valueerror-in-python-and-how-to-fix
+Write a Python program that:
+1. Displays a histogram of 1000 normally distributed values (mean = 5, std deviation = 2)
+2. Plots the function `h(x) = x³` from 0 to 10 on the same graph
 
-## Task 05
-Write a python program called [weekday.py](weekday.py)
-
-The program will outputs whether or not today is a weekday.
-
-**References**:
-
-https://pynative.com/python-get-the-day-of-week/
-
-https://www.w3schools.com/python/python_sets.asp
-
-https://docs.python.org/3/library/datetime.html
-
-## Task 06
-Write a python program called [squareroot.py](squareroot.py)
-
-The program will takes a positive floating-point number as input and outputs an approximation of its square root.
-
-**References**:
-
-https://www.geeksforgeeks.org/find-root-of-a-number-using-newtons-method/
-
-https://codedamn.com/news/python/calculate-square-root-in-python
-
-https://runestone.academy/ns/books/published/thinkcspy/MoreAboutIteration/NewtonsMethod.html
-
-Prompt. ChatGPT “why my code wrong explain in steps”
-
-## Task 07
-Write a python program called [es.py](es.py)
-
-The program will reads in a text file moby-dick.txt and outputs the number of e's it contains.
-
-**References**:
-
-https://www.geeksforgeeks.org/how-to-use-sys-argv-in-python/
-
-https://realpython.com/python-catch-multiple-exceptions/
-
-https://realpython.com/python-counter/
-
-https://www.geeksforgeeks.org/count-the-number-of-times-a-letter-appears-in-a-text-file-in-python/
-
-## Task 08
-
-Write a python program called [plottask.py](plottask.py)
-that displays:
-
-* histogram of a normal distribution of a 1000 values with a mean of 5 and standard deviation of 2. 
-* plot of the function  h(x)=x3 in the range 0 to 10, on the one set of axes.
-
-**References**:
-
-https://www.datacamp.com/tutorial/histograms-matplotlib
-
-https://www.geeksforgeeks.org/plotting-histogram-in-python-using-matplotlib/
-
-https://realpython.com/python-matplotlib-guide/
-
-https://atlantictu-my.sharepoint.com/:v:/g/personal/andrew_beatty_atu_ie/Edh4_evzuF9Eve4bT5Ey5VUBfGvhJZlVIzTnQobkJ-1ixg?e=EG2ojs&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
-
-https://matplotlib.org/stable/tutorials/pyplot.html
+### References:
+- [DataCamp - Matplotlib Histograms](https://www.datacamp.com/tutorial/histograms-matplotlib)
+- [GeeksForGeeks - Plotting Histogram](https://www.geeksforgeeks.org/plotting-histogram-in-python-using-matplotlib/)
+- [Real Python - Matplotlib Guide](https://realpython.com/python-matplotlib-guide/)
+- [Matplotlib Documentation](https://matplotlib.org/stable/tutorials/pyplot.html)
+- [Lecture Recording (SharePoint)](https://atlantictu-my.sharepoint.com/:v:/g/personal/andrew_beatty_atu_ie/Edh4_evzuF9Eve4bT5Ey5VUBfGvhJZlVIzTnQobkJ-1ixg?e=EG2ojs&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
