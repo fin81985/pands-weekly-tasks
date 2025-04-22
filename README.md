@@ -55,7 +55,7 @@ Create a program that:
 ### References:
 - [YouTube - Masking Input](https://www.youtube.com/watch?v=H2uYYigqCnE)
 - [Stack Overflow - Mask Digits](https://stackoverflow.com/questions/59342854/how-to-mask-input-and-display-the-last-4-digit-using-python)
-- [Python `math.inf`](https://docs.python.org/3/library/math.html#math.inf)
+- [Python math.inf](https://docs.python.org/3/library/math.html#math.inf)
 
 ---
 
@@ -83,7 +83,7 @@ Write a program that:
 ### References:
 - [PyNative - Get Day of the Week](https://pynative.com/python-get-the-day-of-week/)
 - [W3Schools - Sets](https://www.w3schools.com/python/python_sets.asp)
-- [Python `datetime` Module](https://docs.python.org/3/library/datetime.html)
+- [Python datetime Module](https://docs.python.org/3/library/datetime.html)
 
 ---
 
@@ -107,9 +107,9 @@ Write a Python program that:
 - Counts and displays how many times the letter **"e"** appears
 
 ### References:
-- [GeeksForGeeks - `sys.argv`](https://www.geeksforgeeks.org/how-to-use-sys-argv-in-python/)
+- [GeeksForGeeks - sys.argv](https://www.geeksforgeeks.org/how-to-use-sys-argv-in-python/)
 - [Real Python - Catch Multiple Exceptions](https://realpython.com/python-catch-multiple-exceptions/)
-- [Real Python - `collections.Counter`](https://realpython.com/python-counter/)
+- [Real Python - collections.Counter](https://realpython.com/python-counter/)
 - [GeeksForGeeks - Count Letters in File](https://www.geeksforgeeks.org/count-the-number-of-times-a-letter-appears-in-a-text-file-in-python/)
 
 ---
