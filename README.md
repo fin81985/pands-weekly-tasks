@@ -1,32 +1,36 @@
+# Save the rewritten README with file links as a markdown file
+
+markdown_content = """
 # pands-weekly-tasks
 
 ## Contents
 
 | Task | Program         |
 |------|------------------|
-| 1    | `firstprog.py`   |
-| 2    | `bank.py`        |
-| 3    | `accounts.py`    |
-| 4    | `collatz.py`     |
-| 5    | `weekday.py`     |
-| 6    | `squareroot.py`  |
-| 7    | `es.py`          |
-| 8    | `plottask.py`    |
+| 1    | [`firstprog.py`](firstprog.py)   |
+| 2    | [`bank.py`](bank.py)             |
+| 3    | [`accounts.py`](accounts.py)     |
+| 4    | [`collatz.py`](collatz.py)       |
+| 5    | [`weekday.py`](weekday.py)       |
+| 6    | [`squareroot.py`](squareroot.py) |
+| 7    | [`es.py`](es.py)                 |
+| 8    | [`plottask.py`](plottask.py)     |
 
 ---
 
-## Task 01: `firstprog.py`
+## Task 01: [`firstprog.py`](firstprog.py)
 
 Write a Python program that prints:
 
 Hello World!
+
 
 ### References:
 - [W3Schools Python Tutorial](https://www.w3schools.com/python/default.asp)
 
 ---
 
-## Task 02: `bank.py`
+## Task 02: [`bank.py`](bank.py)
 
 Write a Python program that:
 - Prompts the user to enter two monetary amounts (in cents)
@@ -40,7 +44,7 @@ Write a Python program that:
 
 ---
 
-## Task 03: `accounts.py`
+## Task 03: [`accounts.py`](accounts.py)
 
 Create a program that:
 - Reads a 10-character account number
@@ -53,7 +57,7 @@ Create a program that:
 
 ---
 
-## Task 04: `collatz.py`
+## Task 04: [`collatz.py`](collatz.py)
 
 Write a program that:
 - Prompts the user for a positive integer
@@ -68,7 +72,7 @@ Write a program that:
 
 ---
 
-## Task 05: `weekday.py`
+## Task 05: [`weekday.py`](weekday.py)
 
 Write a program that:
 - Detects the current day of the week
@@ -81,7 +85,7 @@ Write a program that:
 
 ---
 
-## Task 06: `squareroot.py`
+## Task 06: [`squareroot.py`](squareroot.py)
 
 Write a Python program that:
 - Takes a positive floating-point number as input
@@ -94,7 +98,7 @@ Write a Python program that:
 
 ---
 
-## Task 07: `es.py`
+## Task 07: [`es.py`](es.py)
 
 Write a Python program that:
 - Reads a text file (`moby-dick.txt`)
@@ -108,7 +112,7 @@ Write a Python program that:
 
 ---
 
-## Task 08: `plottask.py`
+## Task 08: [`plottask.py`](plottask.py)
 
 Write a Python program that:
 1. Displays a histogram of 1000 normally distributed values (mean = 5, std deviation = 2)
@@ -120,3 +124,6 @@ Write a Python program that:
 - [Real Python - Matplotlib Guide](https://realpython.com/python-matplotlib-guide/)
 - [Matplotlib Documentation](https://matplotlib.org/stable/tutorials/pyplot.html)
 - [Lecture Recording (SharePoint)](https://atlantictu-my.sharepoint.com/:v:/g/personal/andrew_beatty_atu_ie/Edh4_evzuF9Eve4bT5Ey5VUBfGvhJZlVIzTnQobkJ-1ixg?e=EG2ojs&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+"""
+
+
