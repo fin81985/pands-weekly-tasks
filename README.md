@@ -1,6 +1,4 @@
-# Save the rewritten README with file links as a markdown file
 
-markdown_content = """
 # pands-weekly-tasks
 
 ## Contents
