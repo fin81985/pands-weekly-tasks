@@ -1,5 +1,9 @@
+# pands-weekly-tasks 2025
+**Module:** Programming and Scripting  
+**Author:** Finian Doonan  
 
-# pands-weekly-tasks
+---
+
 
 ## Contents
 
