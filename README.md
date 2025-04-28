@@ -10,7 +10,7 @@
 | Task | Program         |
 |------|------------------|
 | 1    | [`firstprog.py`](firstprog.py)   |
-| 2    | [`banks.py`](bank.py)             |
+| 2    | [`banks.py`](banks.py)             |
 | 3    | [`accounts.py`](accounts.py)     |
 | 4    | [`collatz.py`](collatz.py)       |
 | 5    | [`weekday.py`](weekday.py)       |
@@ -32,7 +32,7 @@ Hello World!
 
 ---
 
-## Task 02: [`banks.py`](bank.py)
+## Task 02: [`banks.py`](banks.py)
 
 Write a Python program that:
 - Prompts the user to enter two monetary amounts (in cents)
